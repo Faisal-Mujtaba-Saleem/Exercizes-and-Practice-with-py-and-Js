@@ -1,0 +1,16 @@
+{
+  "name": "text-to-speach-with-py-and-js",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tts": "^0.1.0"
+  }
+}
